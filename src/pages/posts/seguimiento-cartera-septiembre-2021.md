@@ -4,13 +4,13 @@ subtitle: Entradas y salidas
 date: '2021-10-09'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
-Seguimiento cartera Sept. 2021
+  Seguimiento cartera Sept. 2021
 hide_header: false
 template: post
 ---
 ## Contexto
 Con el SP500 en máximos históricos, el mercado dice: "es imposible que baje".  
-Cuando esto ocurre es cuando más cauto hay que ser, sirva como divergencia los [mercados oscuros](https://squeezemetrics.com/monitor/dix>) que indican ventas de manos fuertes.
+Cuando esto ocurre es cuando más cauto hay que ser, sirva como divergencia los [mercados oscuros](https://squeezemetrics.com/monitor/dix) que indican ventas de manos fuertes.
 
 ### Posiciones en IB
 Tenemos las siguientes posiciones en IB:  
