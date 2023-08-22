@@ -30,7 +30,7 @@ Si te registras desde [este enlace](https://www.degiro.es/amigo-invita-amigo/emp
 
 Personalmente aquí tengo acciones para dormir tranquilo como Catalana Occidente, Clínica Baviera o Altia Consultores.
 
-### Interactive Brokers (para experimentados, para redisentes en todo el mundo)
+### Interactive Brokers (para experimentados, para residentes en todo el mundo)
 Es uno de los grandes, con más de 1.500 empleados, oficinas por todo el mundo e igual que DeGiro cotizado.
 Es más complejo que DeGiro, tiene plataforma de escritorio y su plataforma web es menos completa, por otro lado tiene las comisiones más competitivas, sobre todo fuera de USA y España, además tiene muchas más funcionalidades como la generación de informes específicos.
 Lo recomiendo al 100%, ya que además los traspasos de salida son gratuitos, por lo que no hay penalización si deseas irte a otro más adelante.

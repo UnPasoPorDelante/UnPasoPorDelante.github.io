@@ -40,13 +40,6 @@
         ],
         "has_social": false,
         "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            }
         ]
     },
     "footer": {
