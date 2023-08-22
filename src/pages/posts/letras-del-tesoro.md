@@ -4,7 +4,7 @@ subtitle: La renta fija vuelve a tener sentido
 date: '2023-08-22'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
-  Interactive Brokers elimina la comisión de 10 $ mensuales y se convierte en el mejor bróker para invertir cualquier capital.
+  Las Letras del Tesoro ahora ofrecen tasas de interés cercanas al 4% anual con muy poco riesgo.
 hide_header: false
 template: post
 ---
