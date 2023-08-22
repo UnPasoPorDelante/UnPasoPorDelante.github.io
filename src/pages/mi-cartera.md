@@ -10,11 +10,18 @@ Mi planificación financiera está dividida de la siguiente manera:
 |Acciones españolas|Porcentaje del total de acciones|
 | :------------- | :----------: |
 |Gastos corrientes|Los gastos del día a día, en una cuenta a la vista sin comisiones.|
-|Fondo de emergencia 0-6 meses|Equivalente a los gastos que puedo tener en 6 meses en una cuenta remunerada al 0.5% (disponibilidad inmediata).|
-|Fondo de emergencia 6-12 meses|Equivalente a los gastos que puedo tener en 6 meses en un plazo fijo renovación anual al 0.8%.|
+|Fondo de emergencia 0-6 meses|Equivalente a los gastos que puedo tener en 6 meses en una cuenta remunerada (disponibilidad inmediata).|
+|Fondo de emergencia 6-12 meses|Equivalente a los gastos que puedo tener en 6 meses en un plazo fijo renovación anual.|
 |Cartera de inversiones|Fondos de inversión, Acciones y Opciones|
 
 En esta sección voy a realizar seguimiento de mi cartera de inversiones.
+
+# Resumen 2021-2022
+Los años 2021 y 2022 marcaron un período de continuo aprendizaje y evolución en mi enfoque de inversión. Después de las lecciones aprendidas en el pasado, estos dos años me proporcionaron nuevas perspectivas y estrategias que impactaron significativamente en mi cartera de inversiones.
+
+Una de las decisiones clave que tomé en 2021 fue la reevaluación de mis fondos de inversión. Revisé mis inversiones en Vanguard Global Stock Index y Vanguard Emerging Markets Stock Index. Aunque seguía confiando en la estrategia de gestión pasiva, no incrementé posiciones y me centré en seleccionar acciones individualmente (stock-picking).
+
+La estrategia de vender opciones PUT que había implementado previamente, evolucionó para incluir un enfoque más selectivo. Aproveché las oportunidades de manera más consciente, eligiendo opciones sobre acciones que tenía un fuerte interés en adquirir a precios atractivos. Esto me permitió aprovechar la volatilidad del mercado de manera controlada y potenciar mis ingresos a través de las primas de las opciones. 
 
 
 # Resumen 2020-2021
@@ -37,32 +44,6 @@ Realizo una estrategia [DCA de gestión pasiva](/posts/antes-de-invertir). Mi in
 
 El peso de este fondo es equivalente a un 3% si fuera una acción de mi cartera de acciones. 
 He decidido sobreponderar de forma activa esta región el 24/12/2020, ya que considero que las principales posiciones de este fondo (TSMC, Alibaba, Samsung...) tienen aún mucho potencial.
-
-## Acciones
-Me siento más seguro con las acciones nominativas, que con las cuentas omnibús.
-Es por ello que utilizo dos brókers diferentes, uno para acciones españolas (nominativas) y otro para acciones extranjeras (omnibús, que por tema de costes deben de seguir en este formato). Es por este motivo que existe una sobreponderación muy elevada a las acciones españolas.
-
-
-|Acciones españolas|Porcentaje del total de acciones|
-| :------------- | :----------: |
-|Vidrala|26,68%|    
-|Grifols SA Class A|15,65%|  
-|Global Dominion Access|11,03%|  
-|Red Electrica Corporacion|7,65%|  
-|Miquel y Costas & Miquel|0,79%|  
-|Renta 4 Banco|8,34%|
-
-|Acciones extranjeras|Porcentaje del total de acciones|
-| :------------- | :----------: |
-|Devro (Reino Unido)|3%|  
-|Guillemot (Francia)|3%|  
-|MSCI Inc (USA)|4%|  
-|Nagarro (Alemania)|4%|  
-|Niu Technologies (China)|2%|  
-|Rightmove (Reino Unido)|3%|  
-|Rocky Brands (USA)|4%|  
-|S\&U  (USA)|3%|
-|S\&P Global Inc  (USA)|3%|
 
 ## Opciones
 
